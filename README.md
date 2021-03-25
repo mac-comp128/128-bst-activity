@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Binary Search Tree Activity
 
-Info about your project goes here
+Instructions are [here](https://docs.google.com/document/d/1ObZwXNFM19EoT-1xd4I6BE_cqTiXLSNXfCVhwGKfvis/edit?usp=sharing).

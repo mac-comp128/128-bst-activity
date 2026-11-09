@@ -12,7 +12,7 @@ public class TreeUsage {
         bst.add("Libby");
 
         assert(bst.contains("Susan") == false);
-        assert(bst.contains("Esra") == true);
+        assert(bst.contains("Suhas") == true);
 
 
         NumberBST<Integer> intTree = new NumberBST<>();

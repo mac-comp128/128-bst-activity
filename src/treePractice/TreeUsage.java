@@ -6,7 +6,7 @@ public class TreeUsage {
 
         BinarySearchTree<String> bst = new BinarySearchTree<>();
         bst.add("Bret");
-        bst.add("Abbey");
+        bst.add("Abby");
         bst.add("Shilad");
         bst.add("Esra");
         bst.add("Libby");

@@ -8,7 +8,7 @@ public class TreeUsage {
         bst.add("Bret");
         bst.add("Abby");
         bst.add("Shilad");
-        bst.add("Esra");
+        bst.add("Suhas");
         bst.add("Libby");
 
         assert(bst.contains("Susan") == false);
